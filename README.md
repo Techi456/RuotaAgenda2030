@@ -17,10 +17,8 @@ Gli insegnanti possono utilizzarlo come strumento educativo per stimolare la rif
 🔹 **JavaScript** per la logica della ruota e l'animazione.  
 🔹 **Font Comic Relief** per un aspetto creativo e dinamico.  
 
-## 📸 Anteprima  
-_(Inserisci un'anteprima con uno screenshot della ruota interattiva!)_  
-
 ## 🔥 Come usarlo?  
 1️⃣ **Clone il repository** con:  
    ```bash
    git clone https://github.com/Techi/RuotaAgenda2030.git
+
